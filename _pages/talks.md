@@ -46,7 +46,7 @@ nav: true
 
 ***
 
-* _Intuitionistic Implications: On the Logics of Spacetime_, 2020. [Slides](/assets/pdf/ISP.pdf)  
+* _Intuitionistic Implications: On the Logics of Spacetime_, Utrecht, 2020. [Slides](/assets/pdf/ISP.pdf)  
 
 * _Steenen voor Brood: A Classical Interpretation of the Intuitionistic Logic_, TULIPS, Utrecht University, 2019.
 
