@@ -12,7 +12,7 @@ nav: true
 
 ***
 
-##### [_Mathematical Structuralism a la Grothendieck_ ](https://amirtabatabai.github.io/projects/Mathematical_Structuralism/)
+##### [_Mathematical Structuralism a la Grothendieck_ ](https://amirtabatabai.github.io/projects/MS/)
 
 This is a course aiming at all mathematics and computer science students, covering some parts of modern mathematics from a logical, synthetic structural point of view. It starts with some category theory as the language of mathematical structuralism. Then, it moves to point-free topology and its higher-order versions, Grothendieck toposes and higher toposes to finally reach synthetic functorial geometry and abstract homotopy theory. 
 
