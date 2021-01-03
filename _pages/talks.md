@@ -54,7 +54,7 @@ nav: true
 
 * _The BHK interpretation: looking through Godel's classical lens_, Types, Sets and Constructions Trimester Program, Hausdorff Research Institute for Mathematics, Bonn, May 2018.
 
-* _Computational Flows in Arithmetic_, Swansea University, UK, November 2017.
+* _Computational Flows in Arithmetic_, Swansea University, UK, November 2017. [Slides](/assets/pdf/Swansea.pdf)
 	
 * _Geometric Modality and Weak Exponentials_, University of Nottingham, November 2017.
 
