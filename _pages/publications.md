@@ -33,6 +33,18 @@ nav: true
 
 ***
 
+### Reports
+
+***
+
+<div class="publications">
+
+{% bibliography --group_by none -f reports %}
+
+</div>
+
+***
+
 ### Theses
 
 ***
@@ -42,6 +54,7 @@ nav: true
 {% bibliography --group_by none -f theses %}
 
 </div>
+
 
 ***
 
