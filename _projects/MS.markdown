@@ -15,10 +15,10 @@ They can be found in the [Youtube channel](https://www.youtube.com/channel/UCSHE
 
 #### Lecture Notes:
 
-[Lecture 01]()  
-[Lecture 02](/assets/pdf/02.pdf)     
-[Lecture 03](/assets/pdf/03.pdf)      
-[Lecture 04](/assets/pdf/04.pdf)  
-[Lecture 05](/assets/pdf/05.pdf)  
-[Lecture 06](/assets/pdf/06.pdf)  
+Lecture 01: Introduction   
+[Lecture 02](/assets/pdf/02.pdf): Categories and their examples      
+[Lecture 03](/assets/pdf/03.pdf): Some examples of categories, Representation theorems, Baby Erlangen program      
+[Lecture 04](/assets/pdf/04.pdf): Baby Erlangen program continued       
+[Lecture 05](/assets/pdf/05.pdf): Construction of new categories, Functors  
+[Lecture 06](/assets/pdf/06.pdf): Some Examples of functors  
  
