@@ -22,6 +22,8 @@ Lecture 01: Introduction
 [Lecture 05](/assets/pdf/05.pdf): Construction of new categories, Functors  
 [Lecture 06](/assets/pdf/06.pdf): Some examples of functors  
 [Lecture 07](/assets/pdf/07.pdf): Fundamental sets and fundamental groupoids  
-[Lecture 08](/assets/pdf/08.pdf): Brouwer's fixed-point theorem and natural transformations     
+[Lecture 08](/assets/pdf/08.pdf): Brouwer's fixed-point theorem and natural transformations  
+[Lecture 09](/assets/pdf/09.pdf): Some examples of natural transformations, CAT as a 2-space      
+    
    
  
