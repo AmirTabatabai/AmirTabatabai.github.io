@@ -28,6 +28,8 @@ Lecture 01: Introduction
 [Lecture 11](/assets/pdf/11.pdf): Functor categories, some examples from algebra, topology and logic including motivations for sheaves and quantum contexuality  
 Lecture 12: Some philosophical discussions on the unity of mathematics, its connection with physics and computer science and some points on intuitionism.  
 [Lecture 13](/assets/pdf/13.pdf): Functors as ideal objects, representable functors     
+[Lecture 14](/assets/pdf/14.pdf): The Yoneda lemma, the universal elements       
+  
 
 
    
