@@ -21,10 +21,9 @@ This is a course aiming at all mathematics and computer science students, coveri
 #### Utrecht University
 
 ***
-* _Logic and Computation_, for Master Students in AI, (together with R. Iemhoff, R. Jalali), Winter 2021.  
+* _Logic and Computation_, for Master Students in AI, (together with R. Iemhoff, R. Jalali), Winter 2021.  [Lecture notes](/assets/pdf/CT.pdf)
 
-* _Logic and Computation_, for Master Students in AI, (together with R. Iemhoff), Fall 2019.  [Lecture notes](/assets/pdf/CT.pdf)
-
+* _Logic and Computation_, for Master Students in AI, (together with R. Iemhoff), Fall 2019.  
 ***
 
 #### University of Tehran
