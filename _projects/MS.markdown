@@ -30,7 +30,8 @@ Lecture 12: Some philosophical discussions on the unity of mathematics, its conn
 [Lecture 13](/assets/pdf/13.pdf): Functors as ideal objects, representable functors     
 [Lecture 14](/assets/pdf/14.pdf): The Yoneda lemma, the universal elements       
 [Lecture 15](/assets/pdf/15.pdf): Morphisms as the generalised elements and the fibrations, terminal objects, products and pullbacks  
-[Lecture 16](/assets/pdf/16.pdf): Initial objects, coproducts, pushouts, exponential objects and some points on the categorical way of thinking              
+[Lecture 16](/assets/pdf/16.pdf): Initial objects, coproducts, pushouts, exponential objects and some points on the categorical way of thinking    
+[Lecture 17](/assets/pdf/17.pdf): Some applications of Yoneda Lemma               
   
 
 
