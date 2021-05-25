@@ -15,6 +15,10 @@ They can be found in the [Youtube channel](https://www.youtube.com/channel/UCSHE
 
 #### Lecture Notes:
 
+[Lecture Notes](/assets/pdf/MathS.pdf)   
+[Exercises](/assets/pdf/MathSEx.pdf)   
+     
+
 Lecture 01: Introduction   
 [Lecture 02](/assets/pdf/02.pdf): Categories and their examples      
 [Lecture 03](/assets/pdf/03.pdf): Some examples of categories, Representation theorems, Baby Erlangen program      
