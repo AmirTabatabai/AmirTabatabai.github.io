@@ -19,7 +19,7 @@ See the full lecture notes [here](/assets/pdf/MathS.pdf). It gets updated regula
 
 #### Exercises:     
 
-[Exercises](/assets/pdf/MathSEx.pdf)   
+See the exercises [here](/assets/pdf/MathSEx.pdf). It gets updated regularly.   
 
 #### All Lecture Notes:   
      
