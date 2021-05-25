@@ -15,7 +15,8 @@ They can be found in the [Youtube channel](https://www.youtube.com/channel/UCSHE
 
 #### Lecture Notes:
 
-[Lecture Notes](/assets/pdf/MathS.pdf)   
+[All Lectures](/assets/pdf/MathS.pdf)     
+
 [Exercises](/assets/pdf/MathSEx.pdf)   
      
 
