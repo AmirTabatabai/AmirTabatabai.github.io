@@ -15,9 +15,13 @@ They can be found in the [Youtube channel](https://www.youtube.com/channel/UCSHE
 
 #### Lecture Notes:
 
-[All Lectures](/assets/pdf/MathS.pdf)     
+See the full lecture notes [here](/assets/pdf/MathS.pdf). It gets updated regularly.   
+
+#### Exercises:     
 
 [Exercises](/assets/pdf/MathSEx.pdf)   
+
+#### All Lecture Notes:   
      
 
 Lecture 01: Introduction   
