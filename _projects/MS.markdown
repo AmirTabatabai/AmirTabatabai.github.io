@@ -43,6 +43,8 @@ Lecture 12: Some philosophical discussions on the unity of mathematics, its conn
 [Lecture 17](/assets/pdf/17.pdf): Some applications of Yoneda Lemma   
 [Lecture 18](/assets/pdf/18.pdf): Equalizers and coequalizers, the relationship between pullbacks, terminals, products and equalizers     
 [Lecture 19](/assets/pdf/19.pdf): Limits and their examples, completion of rings and solenoids                  
+[Lecture 20](/assets/pdf/20.pdf): Sheaves as limits, limits in Set, limits by product and equalizers, colimits and their examples       
+
   
 
 
