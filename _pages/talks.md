@@ -28,6 +28,8 @@ nav: true
 
 ***
 
+* _Generalized Heyting Algebras and Duality_, BLAST 2021. [Slides](/assets/pdf/GenHey.pdf)   
+
 * _The BHK Interpretation:  looking through Godel's classical lens_, Logic Colloquium 2019. [Slides](/assets/pdf/The BHK Interpretation.pdf)
 
 * _Witnessing Games in Generalized Bounded Arithmetic_, LCC 2019.  [Slides](/assets/pdf/Witnessing Games in Generalized Bounded Arithmetic.pdf)
